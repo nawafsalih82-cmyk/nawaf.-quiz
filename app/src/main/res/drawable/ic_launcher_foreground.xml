@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="0.6"
+        android:scaleY="0.6"
+        android:translateX="21.6"
+        android:translateY="21.6">
+        <!-- Golden Trophy Cup -->
+        <path
+            android:fillColor="#F59E0B"
+            android:pathData="M19,5h4v14c0,8.84 7.16,16 16,16h30c8.84,0 16,-7.16 16,-16V5h4c4.42,0 8,3.58 8,8 0,8.13 -6.07,14.84 -14,15.86V45c0,11.05 -8.95,20 -20,20h-8c-11.05,0 -20,-8.95 -20,-20v-16.14C25.07,27.84 19,21.13 19,13 19,8.58 22.58,5 27,5z" />
+        <!-- Trophy Stem & Base -->
+        <path
+            android:fillColor="#D97706"
+            android:pathData="M48,65h12v15h-12z" />
+        <path
+            android:fillColor="#F59E0B"
+            android:pathData="M32,80h44v10c0,2.21 -1.79,4 -4,4H36c-2.21,0 -4,-1.79 -4,-4z" />
+        <!-- Star accent -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,20l3.09,6.26 6.91,1 -5,4.87 1.18,6.88L54,35.75 47.82,39.01 49,32.13 44,27.26 50.91,26.26z" />
+    </group>
+</vector>

@@ -1,0 +1,8 @@
+{
+  "name": "مسابقات الأستاذ نواف المتيوتي",
+  "description": "تطبيق مسابقات تعليمي وترفيهي لنظام أندرويد من تصميم الأستاذ نواف المتيوتي، يشمل 3 مستويات و20 سؤالاً ومؤقت ونظام نقاط ومؤثرات صوتية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
