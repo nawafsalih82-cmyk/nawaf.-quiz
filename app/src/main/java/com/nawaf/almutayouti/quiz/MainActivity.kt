@@ -179,7 +179,7 @@ fun TopDesignerBanner() {
         modifier = Modifier
             .fillMaxWidth()
             .padding(vertical = 4.dp),
-        horizontalAlignment = Alignment.CenterAlignmentHorizontally
+        horizontalAlignment = Alignment.CenterHorizontally
     ) {
         Text(
             text = "الأستاذ نواف المتيوتي",
@@ -210,7 +210,7 @@ fun HomeScreen(
             .fillMaxSize()
             .verticalScroll(rememberScrollState())
             .padding(20.dp),
-        horizontalAlignment = Alignment.CenterAlignmentHorizontally,
+        horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.SpaceBetween
     ) {
         Column(
